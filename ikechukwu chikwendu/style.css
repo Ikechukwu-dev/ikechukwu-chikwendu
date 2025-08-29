@@ -311,3 +311,9 @@ body.dark-mode .btn {
 body.dark-mode .btn:hover {
   background-color: #9900cc;
 }
+a{
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  position: center;
+}
