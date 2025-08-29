@@ -305,3 +305,9 @@ body.dark-mode .btn {
 body.dark-mode .btn:hover {
   background-color: #9900cc;
 }
+button{
+  background-color: transparent;
+  font-size: 16px;
+  font-family: 'Courier';
+  border: none;
+}
