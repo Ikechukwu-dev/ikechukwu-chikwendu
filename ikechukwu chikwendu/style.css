@@ -198,6 +198,12 @@ footer {
   .hamburger {
     display: block;
   }
+  button{
+  background-color: transparent;
+  font-size: 16px;
+  font-family: 'Courier';
+  border: none;
+}
 }
 
 .btn {
@@ -219,6 +225,12 @@ footer {
 }
 .btn:hover {
   background-color: #9d00ff; /* neon purple on hover */
+}
+button{
+  background-color: transparent;
+  font-size: 16px;
+  font-family: 'Courier';
+  border: none;
 }
 @keyframes riseUp {
   from {
