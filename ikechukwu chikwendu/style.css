@@ -178,8 +178,8 @@ footer {
   }
 }
 .btn{
-  max-width: 240px;
-  padding-left: 60px;
+  max-width: 220px;
+  max-padding-left: 60px;
 }
 .card{
   max-width: 100%;
