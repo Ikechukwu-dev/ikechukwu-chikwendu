@@ -176,9 +176,9 @@ footer {
   .hero {
     padding: 40px 10px;
   }
-}
-.btn{
+  .btn{
   max-width: 219px;
+  }
 }
 .card{
   max-width: 100%;
