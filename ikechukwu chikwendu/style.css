@@ -178,7 +178,7 @@ footer {
   }
 }
 .btn{
-  width: 70%;
+  max-width: 70px;
 }
 .card{
   max-width: 100%;
