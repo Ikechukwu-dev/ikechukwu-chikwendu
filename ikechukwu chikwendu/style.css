@@ -179,8 +179,11 @@ footer {
   }
 
   .btn {
-    width: 10%;
+    width: 50%;
     text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
     padding: 10px;
     
   }
