@@ -180,16 +180,6 @@ footer {
   .hero {
     padding: 40px 10px;
   }
-
-  .btn {
-    width: 40%;
-    display: inline-block;
-    text-align: center;
-    margin-left: 20px;
-  }
-  a {
-    width: 20px;
-  }
 }
 
 @media (max-width: 768px) {
