@@ -181,7 +181,7 @@ footer {
   width: 70%;
 }
 .card{
-  width: 100%;
+  max-width: 100px;
 }
 @media (max-width: 768px) {
   nav ul {
