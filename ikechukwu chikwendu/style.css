@@ -186,7 +186,9 @@ footer {
     display: inline-block;
     text-align: center;
     margin-left: 20px;
-    
+  }
+  a {
+    width: 20px;
   }
 }
 
