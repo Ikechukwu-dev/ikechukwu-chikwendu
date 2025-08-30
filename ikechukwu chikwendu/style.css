@@ -179,7 +179,7 @@ footer {
   }
 
   .btn {
-    width: 10%;
+    width: 100px;
     text-align: center;
     align-items: center;
     align-content: center;
@@ -209,10 +209,6 @@ footer {
   justify-content: center;
   text-align: center;
   width: 15%;
-  position: absolute;
-  margin-left: auto;
-  margin-right: auto;
-  place-items: center;
   font-size: 21px;
   align-content: center;
   text-decoration: none;
