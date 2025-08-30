@@ -179,6 +179,7 @@ footer {
 }
 .btn{
   max-width: 240px;
+  padding-left: 6px;
 }
 .card{
   max-width: 100%;
