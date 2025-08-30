@@ -180,6 +180,9 @@ footer {
 .btn{
   width: 70%;
 }
+.card{
+  width: 100%;
+}
 @media (max-width: 768px) {
   nav ul {
     display: none;
