@@ -316,3 +316,6 @@ a{
   align-content: center;
   position: center;
 }
+.link{
+  text-decoration: none;
+}
